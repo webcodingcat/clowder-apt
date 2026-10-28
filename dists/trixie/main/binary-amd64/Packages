@@ -1,0 +1,31 @@
+Package: clowder
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Christoph Friedrich <531870+SaijSaij@users.noreply.github.com>
+Installed-Size: 2448
+Homepage: https://github.com/webcodingcat/clowder
+Priority: optional
+Section: admin
+Filename: pool/main/c/clowder/clowder_0.0.1_amd64.deb
+Size: 1101126
+SHA256: c118abb975bd8d108285e16bc5612a1af0db64eeac770279c344b7a0c87180e5
+SHA1: c93d6486394ecfbad0289ae8fd7fa4cbe62858f3
+MD5sum: 4cb9dcdd57fff8d4e6a64dbf4ce6ea65
+Description: CLI of a clowder cluster
+
+Package: clowderd
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Christoph Friedrich <531870+SaijSaij@users.noreply.github.com>
+Installed-Size: 2449
+Depends: docker.io, docker-cli, docker-compose, wireguard-tools, nftables, iptables, conntrack, lvm2, thin-provisioning-tools, restic, git, e2fsprogs, util-linux, linux-headers-amd64, gcc, libc6-dev, make, coccinelle, drbd-dkms, drbd-utils (>= 9.28)
+Homepage: https://github.com/webcodingcat/clowder
+Priority: optional
+Section: admin
+Filename: pool/main/c/clowderd/clowderd_0.0.1_amd64.deb
+Size: 1102500
+SHA256: 99c5ca236eb24374c167df4d6c180e5ed2ed8bcb057d88aa12af9e2f6383125f
+SHA1: 8c0f0e2ad08083aee8691770b550694270c17372
+MD5sum: 61af03897207a9b707cb03ed1aba0976
+Description: Agent of a clowder cluster
+

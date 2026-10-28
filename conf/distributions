@@ -1,0 +1,7 @@
+Origin: clowder
+Label: clowder
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: clowder packages for Debian 13
+SignWith: 90936C85402C45ADCC58A8A2139D3911698DC23E

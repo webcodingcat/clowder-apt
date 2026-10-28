@@ -1,0 +1,19 @@
+Origin: clowder
+Label: clowder
+Codename: trixie
+Date: Wed, 28 Oct 2026 16:44:25 UTC
+Architectures: amd64
+Components: main
+Description: clowder packages for Debian 13
+MD5Sum:
+ e2b27d3bb299e58f204ff748eccbe7b0 1255 main/binary-amd64/Packages
+ 6abdd7e6399a9170f96902b819383536 653 main/binary-amd64/Packages.gz
+ 48760cb9ede784e0c7546040110bce0e 111 main/binary-amd64/Release
+SHA1:
+ 5d5ba45ece288f1062eeea66ed2edd4498ff8de8 1255 main/binary-amd64/Packages
+ 22eeac9f1973dead8c3502fb966973f6669af7b8 653 main/binary-amd64/Packages.gz
+ 436ac8801de74fb9a3080c151d7abe1e4111a422 111 main/binary-amd64/Release
+SHA256:
+ 596975471c0bd562bf1c54dea2adc60cf9d8b8bdd9c108b8a219c007831a405c 1255 main/binary-amd64/Packages
+ 0c9d4fdf524b62f47123517be6109a53a937d5e6c6c04abb7c407eebf6193013 653 main/binary-amd64/Packages.gz
+ 032e7c1d9890aeafddadf268fbb8b6c217cf2af4b800730b5dbbe45f10198352 111 main/binary-amd64/Release
