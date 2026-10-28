@@ -1,0 +1,4 @@
+# Written on Linux by CI: never check out with CRLF.
+* text=auto eol=lf
+*.deb binary
+*.gz binary
