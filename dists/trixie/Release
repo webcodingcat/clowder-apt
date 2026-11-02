@@ -1,19 +1,24 @@
-Origin: clowder
-Label: clowder
-Codename: trixie
-Date: Wed, 28 Oct 2026 16:44:25 UTC
 Architectures: amd64
+Codename: trixie
 Components: main
+Date: Mon, 02 Nov 2026 11:34:59 +0000
 Description: clowder packages for Debian 13
+Label: clowder
+Origin: clowder
+Suite: trixie
 MD5Sum:
- e2b27d3bb299e58f204ff748eccbe7b0 1255 main/binary-amd64/Packages
- 6abdd7e6399a9170f96902b819383536 653 main/binary-amd64/Packages.gz
- 48760cb9ede784e0c7546040110bce0e 111 main/binary-amd64/Release
+ 1f74c4ec51fdff61010e0ae656deb8fb             3051 main/binary-amd64/Packages
+ 6df584fc7a2a2cfa44139ee7d2375fe5             1222 main/binary-amd64/Packages.gz
+ 48760cb9ede784e0c7546040110bce0e              111 main/binary-amd64/Release
 SHA1:
- 5d5ba45ece288f1062eeea66ed2edd4498ff8de8 1255 main/binary-amd64/Packages
- 22eeac9f1973dead8c3502fb966973f6669af7b8 653 main/binary-amd64/Packages.gz
- 436ac8801de74fb9a3080c151d7abe1e4111a422 111 main/binary-amd64/Release
+ a7c01c16b2976e2c0d0c6340aaf033a864e8abaf             3051 main/binary-amd64/Packages
+ 0151fba4a5ac7e28afc5d6e16947ca511a260af7             1222 main/binary-amd64/Packages.gz
+ 436ac8801de74fb9a3080c151d7abe1e4111a422              111 main/binary-amd64/Release
 SHA256:
- 596975471c0bd562bf1c54dea2adc60cf9d8b8bdd9c108b8a219c007831a405c 1255 main/binary-amd64/Packages
- 0c9d4fdf524b62f47123517be6109a53a937d5e6c6c04abb7c407eebf6193013 653 main/binary-amd64/Packages.gz
- 032e7c1d9890aeafddadf268fbb8b6c217cf2af4b800730b5dbbe45f10198352 111 main/binary-amd64/Release
+ 676e62bf545417e78aaa78d927a87d9c3dabe501d774a244d67596eca0fe251b             3051 main/binary-amd64/Packages
+ d1b0e1229cd9dc8a06eac9936182e8ef0e751cf40cfe26cbf4d0ae60fea89649             1222 main/binary-amd64/Packages.gz
+ 032e7c1d9890aeafddadf268fbb8b6c217cf2af4b800730b5dbbe45f10198352              111 main/binary-amd64/Release
+SHA512:
+ a93cfc1b9fbd57c95bfce9c88a2a0ec77cf773f9994b38dec57dd8861c3536b662246ebbf024e4fd88141b628261cf9a31a6c142a16d582b646460dc02c8cbd1             3051 main/binary-amd64/Packages
+ 47936a7e6e6902bbaf218560b01bc4645a48067d2ef17f7e875c96c56f89ddf458d637636285818a14b854de1a467e8a737729ef30dd894ba44f0ce43e56ff47             1222 main/binary-amd64/Packages.gz
+ a221bed7978830a07ef76b353321458cb55165a42e3ef5273a67bf88a7d46a105d76b812c73a912e1d2e3829103f14340e32248fd512216b48a7e9ae934e9234              111 main/binary-amd64/Release
