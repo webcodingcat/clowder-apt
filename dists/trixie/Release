@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: trixie
 Components: main
-Date: Mon, 02 Nov 2026 11:34:59 +0000
+Date: Mon, 02 Nov 2026 12:04:45 +0000
 Description: clowder packages for Debian 13
 Label: clowder
 Origin: clowder
 Suite: trixie
 MD5Sum:
- 1f74c4ec51fdff61010e0ae656deb8fb             3051 main/binary-amd64/Packages
- 6df584fc7a2a2cfa44139ee7d2375fe5             1222 main/binary-amd64/Packages.gz
+ badba2d87032c89582fb6741b8531b78             4557 main/binary-amd64/Packages
+ db89ddbff90c02c225b25aa4d98d7109             1599 main/binary-amd64/Packages.gz
  48760cb9ede784e0c7546040110bce0e              111 main/binary-amd64/Release
 SHA1:
- a7c01c16b2976e2c0d0c6340aaf033a864e8abaf             3051 main/binary-amd64/Packages
- 0151fba4a5ac7e28afc5d6e16947ca511a260af7             1222 main/binary-amd64/Packages.gz
+ 9e876b3bf90397954556ab7e63f7a19a54af16cb             4557 main/binary-amd64/Packages
+ 61b5570bc3b4ab39c86d63de99c686c4b79bdb0a             1599 main/binary-amd64/Packages.gz
  436ac8801de74fb9a3080c151d7abe1e4111a422              111 main/binary-amd64/Release
 SHA256:
- 676e62bf545417e78aaa78d927a87d9c3dabe501d774a244d67596eca0fe251b             3051 main/binary-amd64/Packages
- d1b0e1229cd9dc8a06eac9936182e8ef0e751cf40cfe26cbf4d0ae60fea89649             1222 main/binary-amd64/Packages.gz
+ 62aeec451b34f111ace307bb6fd1f1cb4715c571b2c31834a0061622a2088808             4557 main/binary-amd64/Packages
+ 0278b5c05b9b433a6978f144a619bd51e2a93d76dfd42bd505664b44ed544190             1599 main/binary-amd64/Packages.gz
  032e7c1d9890aeafddadf268fbb8b6c217cf2af4b800730b5dbbe45f10198352              111 main/binary-amd64/Release
 SHA512:
- a93cfc1b9fbd57c95bfce9c88a2a0ec77cf773f9994b38dec57dd8861c3536b662246ebbf024e4fd88141b628261cf9a31a6c142a16d582b646460dc02c8cbd1             3051 main/binary-amd64/Packages
- 47936a7e6e6902bbaf218560b01bc4645a48067d2ef17f7e875c96c56f89ddf458d637636285818a14b854de1a467e8a737729ef30dd894ba44f0ce43e56ff47             1222 main/binary-amd64/Packages.gz
+ 43fca9d1868eca9d01ca44dffd0d3aab32a4bc3b5440ed82f9acdcb799307429de1ac687f60c7f2789fe38b72d1af6d70c3fe2b9f6d561efa57b65780433f31d             4557 main/binary-amd64/Packages
+ 87b6ae353d610f52a846808fb061d37217af8df2fa08cfa4bace24129746427b072e9cde1c81fe3ab6d0f967c48e516d6d2d2a0e3623233ed5fe341fc0e15278             1599 main/binary-amd64/Packages.gz
  a221bed7978830a07ef76b353321458cb55165a42e3ef5273a67bf88a7d46a105d76b812c73a912e1d2e3829103f14340e32248fd512216b48a7e9ae934e9234              111 main/binary-amd64/Release

@@ -16,6 +16,22 @@ Description: CLI of a clowder cluster
 
 Package: clowder
 Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Section: admin
+Maintainer: Christoph Friedrich <531870+SaijSaij@users.noreply.github.com>
+Installed-Size: 9340
+Filename: pool/main/c/clowder/clowder_0.1.0_amd64.deb
+Size: 3974928
+MD5sum: 7d97a10526ec31fdc7c20c05ca8d76ca
+SHA1: 5b260ff5d0ddf76d12f98a521b7967ce8a4ec7ee
+SHA256: 1e6a06f133ef7ba53dfb7a10b1255a7e489969066e49409b4ea21e9611687b9d
+SHA512: 4eff4ca9d3a6f25b9bf6039f7cdbd58d44b10d08845e4218d26061511210869c2e1317e97aa4aa876354ca196f3d075ca95acbbfd403a4f22623ae4da54009a4
+Homepage: https://github.com/webcodingcat/clowder
+Description: CLI of a clowder cluster
+
+Package: clowder
+Architecture: amd64
 Version: 0.1.0~rc2
 Priority: optional
 Section: admin
@@ -44,6 +60,23 @@ MD5sum: 61af03897207a9b707cb03ed1aba0976
 SHA1: 8c0f0e2ad08083aee8691770b550694270c17372
 SHA256: 99c5ca236eb24374c167df4d6c180e5ed2ed8bcb057d88aa12af9e2f6383125f
 SHA512: d3a7628ee77955df82cb48ede5e3220cc15ba516178f4eaaf0cd5761e69809da5964bf2d76009877d2bb179f8146304f9c224f036cb94ff26ab04ddfc2f13aca
+Homepage: https://github.com/webcodingcat/clowder
+Description: Agent of a clowder cluster
+
+Package: clowderd
+Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Section: admin
+Maintainer: Christoph Friedrich <531870+SaijSaij@users.noreply.github.com>
+Installed-Size: 12761
+Depends: docker.io, docker-cli, docker-compose, wireguard-tools, nftables, iptables, lvm2, thin-provisioning-tools, e2fsprogs, util-linux, linux-headers-amd64, gcc, libc6-dev, make, coccinelle, drbd-dkms, drbd-utils (>= 9.28)
+Filename: pool/main/c/clowderd/clowderd_0.1.0_amd64.deb
+Size: 5329746
+MD5sum: 0a564631bcda0a151e333bf2501d428a
+SHA1: e1af9aeeb0b83eee03ed405f9b1adbbce3b9c023
+SHA256: d5ed419e00cde91234302932179c084223a79ed5fea34c97109b69df2e3b33d7
+SHA512: c2b501c13378515f60d1982f34a9ebca145fb69a5b13decbd5a515242182ecb4f21df0d6355e05f564f6ed322faf8cbe495287e6e34d1e83c26a98618df0127e
 Homepage: https://github.com/webcodingcat/clowder
 Description: Agent of a clowder cluster
 
